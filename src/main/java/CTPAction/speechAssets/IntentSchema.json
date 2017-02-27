@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "FirstIntent",
+      "slots": [
+        {
+          "name": "policynum",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
