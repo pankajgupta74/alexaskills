@@ -1,5 +1,5 @@
-FirstIntent my policy number is {policyNumber}
-FirstIntent policy number is {policyNumber}
-FirstIntent it is {policyNumber}
-FirstIntent that is {policyNumber}
-FirstIntent {policyNumber}
+FirstIntent my policy number is {policynum}
+FirstIntent policy number is {policynum}
+FirstIntent it is {policynum}
+FirstIntent that is {policynum}
+FirstIntent {policynum}
